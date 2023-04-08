@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about React, Node, Javascript, sass
 - 📫 How to reach me: Send me a email [Here](mailto:dluisaneudy82@gmail.com)
 -  :mag: Visit my portfolio <a href="https://aneudypq.netlify.app" target="_blank">Here</a>
-- ⚡ Fun fact:  In my free time, I like to practice to improve my skills and logic in algoritmh logic
+- ⚡ Fun fact:  In my free time, I like to practice to improve my skills in the programming
 
