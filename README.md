@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 ###  :boom: Technologies that i use :boom: :100:
 
-| React JS | SASS | Redux| Tailwindcss | Git
-| ---------|--------|------|-------|------------------
+| React JS | SASS |  Tailwindcss | Git
+| ---------|-------|-------|------------------
 
 ----
 
