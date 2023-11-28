@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ----
 
-- 🌱 I’m currently learning react, node ecosystem
+- 🌱 I’m currently learning react, asp net ecosystem
 - 👯 I’m looking to collaborate on project with tecnologies that i mentioned
 - 💬 Ask me about React, Typescript, Tailwincss
 - 📫 How to reach me: Send me a email [Here](mailto:dluisaneudy82@gmail.com)
