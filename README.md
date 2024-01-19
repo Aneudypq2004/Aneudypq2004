@@ -7,17 +7,16 @@ Here are some ideas to get you started:
 
 -->
 
-###  :boom: Technologies that i use :boom: :100:
+###  :boom: Tecnologías que uso :boom: :100:
 
 | React JS | asp net core |  Tailwindcss | Git
 | ---------|-------|-------|------------------
 
 ----
 
-- 🌱 I’m currently learning react, asp net ecosystem
-- 👯 I’m looking to collaborate on project with tecnologies that i mentioned
-- 💬 Ask me about React, .net , Tailwincss
-- 📫 How to reach me: Send me a email [Here](mailto:dluisaneudy82@gmail.com)
--  :mag: Visit my portfolio <a href="https://aneudydev.netlify.app" target="_blank">Here</a>
-- ⚡ Fun fact:  In my free time, I like to practice to improve my skills in the programming
+- 🌱 Siempre mejorando en react, asp net ecosystem
+- 💬 Preguntame sobre .net , react, tailwindcss, postman 
+- 📫 Envíame un email [Here](mailto:dluisaneudy82@gmail.com)
+-  :mag: échale un vistazo a mi portafolio <a href="https://aneudydev.netlify.app" target="_blank">Here</a>
+- ⚡ Fun fact:  En mi tiempo libre suelo practicar para mejorar mis habilidades.
 
